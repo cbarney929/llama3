@@ -7,7 +7,7 @@ global class ApplicationFormProductResultRepresentation {
 	global String disbursementMethod;
 	global Double downPayment;
 	global Boolean hasAutomaticPayment;
-	global Boolean hasElectronicStatement;
+	global Boolean hasElectronicstatement's;
 	global String id;
 	global Boolean isAtmCardRequired;
 	global Boolean isCheckbookRequired;

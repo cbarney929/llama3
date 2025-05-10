@@ -6,7 +6,7 @@ global class ApplicationFormProductInput {
 	global String disbursementMethod;
 	global Double downPayment;
 	global Boolean hasAutomaticPayment;
-	global Boolean hasElectronicStatement;
+	global Boolean hasElectronicstatement's;
 	global Boolean isAtmCardRequired;
 	global Boolean isCheckbookRequired;
 	global String loanPurpose;

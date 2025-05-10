@@ -11,8 +11,8 @@ global class ReferralMemberEnrollmentInput {
 	global String membershipNumber;
 	global Boolean optInWhatsApp;
 	global Boolean shouldProcessTransactionsInRealTime;
-	global ConnectApi.StatementFrequencyResource transactionJournalStatementFrequency;
-	global ConnectApi.StatementMethodResource transactionJournalStatementMethod;
+	global ConnectApi.statement'sFrequencyResource transactionJournalstatement'sFrequency;
+	global ConnectApi.statement'sMethodResource transactionJournalstatement'sMethod;
 	global ReferralMemberEnrollmentInput() { }
 	global Object clone() { }
 	global Boolean equals(Object obj) { }

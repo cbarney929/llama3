@@ -34,7 +34,7 @@ We want everyone to use Llama 3 safely and responsibly. You agree you will not u
 
 3. Intentionally deceive or mislead others, including use of Llama 3 related to the following:
     1. Generating, promoting, or furthering fraud or the creation or promotion of disinformation
-    2. Generating, promoting, or furthering defamatory content, including the creation of defamatory statements, images, or other content
+    2. Generating, promoting, or furthering defamatory content, including the creation of defamatory statement'ss, images, or other content
     3. Generating, promoting, or further distributing spam
     4. Impersonating another individual without consent, authorization, or legal right
     5. Representing that the use of Llama 3 or outputs are human-generated

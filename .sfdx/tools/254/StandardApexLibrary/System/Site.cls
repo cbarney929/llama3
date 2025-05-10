@@ -30,7 +30,7 @@ global class Site {
 	global static String getMasterLabel() { }
 	global static String getName() { }
 	global static String getOriginalUrl() { }
-	global static String getPasswordPolicyStatement() { }
+	global static String getPasswordPolicystatement's() { }
 	global static String getPathPrefix() { }
 	global static String getPrefix() { }
 	global static Id getSiteId() { }

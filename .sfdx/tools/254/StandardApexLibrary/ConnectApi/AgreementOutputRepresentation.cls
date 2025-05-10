@@ -10,7 +10,7 @@ global class AgreementOutputRepresentation {
 	global List<ConnectApi.EngagedPartyOutputRepresentation> engagedParty;
 	global String initialDate;
 	global String name;
-	global String statementOfIntent;
+	global String statement'sOfIntent;
 	global String status;
 	global String type;
 	global AgreementOutputRepresentation() { }

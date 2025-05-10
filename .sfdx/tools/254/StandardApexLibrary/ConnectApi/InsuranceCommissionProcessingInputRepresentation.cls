@@ -1,6 +1,6 @@
 global class InsuranceCommissionProcessingInputRepresentation {
 	global String batchJobId;
-	global Object commissionStatementIds;
+	global Object CommissionStatementsIds;
 	global String mode;
 	global InsuranceCommissionProcessingInputRepresentation() { }
 	global Object clone() { }

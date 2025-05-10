@@ -20,9 +20,9 @@ global class MemberDetailsOutput {
 	global String membershipNumber;
 	global String referredBy;
 	global String relatedCorporateMembershipNumber;
-	global String transactionJournalStatementFrequency;
-	global Datetime transactionJournalStatementLastGeneratedDate;
-	global String transactionJournalStatementMethod;
+	global String transactionJournalstatement'sFrequency;
+	global Datetime transactionJournalstatement'sLastGeneratedDate;
+	global String transactionJournalstatement'sMethod;
 	global MemberDetailsOutput() { }
 	global Object clone() { }
 	global Boolean equals(Object obj) { }

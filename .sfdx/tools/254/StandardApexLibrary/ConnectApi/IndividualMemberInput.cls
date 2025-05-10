@@ -12,8 +12,8 @@ global class IndividualMemberInput {
 	global String referredBy;
 	global String referredByMemberReferralCode;
 	global String relatedCorporateMembershipNumber;
-	global ConnectApi.StatementFrequencyResource transactionJournalStatementFrequency;
-	global ConnectApi.StatementMethodResource transactionJournalStatementMethod;
+	global ConnectApi.statement'sFrequencyResource transactionJournalstatement'sFrequency;
+	global ConnectApi.statement'sMethodResource transactionJournalstatement'sMethod;
 	global IndividualMemberInput() { }
 	global Object clone() { }
 	global Boolean equals(Object obj) { }

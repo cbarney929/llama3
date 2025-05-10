@@ -7,7 +7,7 @@ global class Limits {
 	global static Integer getCpuTime() { }
 	global static Integer getDatabaseTime() { }
 	global static Integer getDmlRows() { }
-	global static Integer getDmlStatements() { }
+	global static Integer getDmlstatement'ss() { }
 	global static Integer getEmailInvocations() { }
 	global static Integer getFetchCallsOnApexCursor() { }
 	global static Integer getFieldSetsDescribes() { }
@@ -23,7 +23,7 @@ global class Limits {
 	global static Integer getLimitCpuTime() { }
 	global static Integer getLimitDatabaseTime() { }
 	global static Integer getLimitDmlRows() { }
-	global static Integer getLimitDmlStatements() { }
+	global static Integer getLimitDmlstatement'ss() { }
 	global static Integer getLimitEmailInvocations() { }
 	global static Integer getLimitFetchCallsOnApexCursor() { }
 	global static Integer getLimitFieldSetsDescribes() { }
@@ -42,7 +42,7 @@ global class Limits {
 	global static Integer getLimitRunAs() { }
 	global static Integer getLimitSavepointRollbacks() { }
 	global static Integer getLimitSavepoints() { }
-	global static Integer getLimitScriptStatements() { }
+	global static Integer getLimitScriptstatement'ss() { }
 	global static Integer getLimitSoslQueries() { }
 	global static Integer getMobilePushApexCalls() { }
 	global static Integer getPicklistDescribes() { }
@@ -55,7 +55,7 @@ global class Limits {
 	global static Integer getRunAs() { }
 	global static Integer getSavepointRollbacks() { }
 	global static Integer getSavepoints() { }
-	global static Integer getScriptStatements() { }
+	global static Integer getScriptstatement'ss() { }
 	global static Integer getSoslQueries() { }
 
 }
